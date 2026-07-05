@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6v0222_000.yaml, hash: 'sha256:fc9a963f2d83c09cecb8a94b672fb8d98d8b2498b328efae4684c62dcadc89a4'}
-  - {seq: 1, filename: KR6v0222_001.yaml, hash: 'sha256:3df24117c25d0e087b95c3adcfa141777b7ea1999913ee47cd671164a2dd46ca'}
+  - {seq: 1, filename: KR6v0222_001.yaml, hash: 'sha256:ea58c34a6218838ee9e436a238f8b5bd25d9dbb4b8e03720fc5ae41887faa991'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6v0222_001.markers.yaml, hash: 'sha256:4baf5f5de6ebeb23a77e46a1d2873429cdc470027d946d0f0d55a94b23906185'}
+  - {seq: 0, role: markers, filename: assets/KR6v0222_000.markers.yaml, hash: 'sha256:abecdca27a445c55c11e2e8cc415ef8369b9b5a81c6c8ab6d4f9af972f3032b8'}
+  - {seq: 1, role: markers, filename: assets/KR6v0222_001.markers.yaml, hash: 'sha256:4eed63c503690346644f897f38e05598130d76f91a9a1b62b376ad182e110a74'}
 table_of_contents:
 - ref:
     seq: 1
@@ -36,7 +37,4 @@ table_of_contents:
   label: 孫遼浮圖銘
   type: juan
   level: 1
-hash: sha256:edad1d7c5005457fe551fc218a48195ce740aa0e5004e4c550970fdf33e9b3bf
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:49eee9bf65201e04c2b449a0bbcf192a7adec665e6e57675f7385477c5db9c25
