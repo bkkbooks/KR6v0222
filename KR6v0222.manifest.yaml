@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6v0222/v1
 canonical_location: https://kanripo.org/bkk/KR6v0222/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 孫遼浮圖銘
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6v0222_000.yaml, hash: 'sha256:fc9a963f2d83c09cecb8a94b672fb8d98d8b2498b328efae4684c62dcadc89a4'}
-  - {seq: 1, filename: KR6v0222_001.yaml, hash: 'sha256:ea58c34a6218838ee9e436a238f8b5bd25d9dbb4b8e03720fc5ae41887faa991'}
+  - {seq: 1, filename: KR6v0222_001.yaml, hash: 'sha256:42ec068df7820ce8ead3c65f3b41221987c6870c1ca455fc847abae12498cc0b'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6v0222_000.markers.yaml, hash: 'sha256:abecdca27a445c55c11e2e8cc415ef8369b9b5a81c6c8ab6d4f9af972f3032b8'}
-  - {seq: 1, role: markers, filename: assets/KR6v0222_001.markers.yaml, hash: 'sha256:4eed63c503690346644f897f38e05598130d76f91a9a1b62b376ad182e110a74'}
+  - {seq: 1, role: markers, filename: assets/KR6v0222_001.markers.yaml, hash: 'sha256:404528dbef9615aa252c7b1e5ef73fcc7ed8ace426a04c4921ba7e795e0fe8c5'}
 table_of_contents:
 - ref:
     seq: 1
@@ -37,4 +37,7 @@ table_of_contents:
   label: 孫遼浮圖銘
   type: juan
   level: 1
-hash: sha256:49eee9bf65201e04c2b449a0bbcf192a7adec665e6e57675f7385477c5db9c25
+hash: sha256:4a82eb2c34bf6be56b5b1a54d74cdec59b326b6b05d2b20c0a5e5189dcacc395
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
